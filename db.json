@@ -1,5 +1,4 @@
-{ "rezepte": [
-
+[
   {
     "id": 1,
     "name": "Naomis Chinakohl-Bandnudel-Pfanne",
@@ -2293,4 +2292,3 @@
     "image": "Pizza_mit_Pilzen_und_Spinat.jpg"
   }
 ]
-}
