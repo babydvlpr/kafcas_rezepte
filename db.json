@@ -31,21 +31,13 @@
   "rezepte": [
     {
       "id": 1,
-      "name": "Naomis Chinakohl-Bandnudel-Pfanne",
-      "ablage": true,
-      "print": "",
-      "web": "https://www.chefkoch.de/rezepte/1558631263300901/Naomis-Chinakohl-Bandnudel-Pfanne.html",
-      "notiz": "",
-      "image": "Naomis_Chinakohl-Bandnudel-Pfanne.jpg"
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "name": "Blumenkohl-Pasta con aglio e olio",
-      "ablage": false,
-      "print": "essen & trinken, Für jeden Tag, Nr. 4/2013, S. 130",
-      "web": "",
-      "notiz": "",
-      "image": "Blumenkohl-Pasta_con_aglio_e_olio.jpg"
+      "body": "some comment",
+      "postId": 1
     }
   ]
 }
